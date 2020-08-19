@@ -2,6 +2,11 @@
 
 <h2>Bem Vindo ao meu perfil! :call_me_hand: </h2>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/)](https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/) 
+[![Gmail Badge](https://img.shields.io/badge/-felip.garciaalves@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felip.garciaalves@gmail.com)](mailto:felip.garciaalves@gmail.com)
+
+
 <p>
 Meu nome é Felipe Garcia Alves, tenho 17 anos <br>
 Sou um desenvolvedor fullstack :computer:
