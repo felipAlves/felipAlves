@@ -1,12 +1,10 @@
 <h1 align="left"> Felipe Alves </h1>
-<p align="left"></p>
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipAlves" height="20" width="20" /></a>
 <a href="mailto:felip.garciaalves@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="felipAlves" height="20" width="20" /></a>
 </p>
 
-Bem vindo! Sou um desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
+Bem vindo! Sou desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
 Estou me especializando na stack: NodeJs, ReactJS e React Native. <br>
 
 > as grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
