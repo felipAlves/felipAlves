@@ -7,7 +7,7 @@
 Bem vindo! Sou desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
 Estou me especializando na stack: NodeJs, ReactJS e React Native. <br>
 
-> as grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
+> As grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
