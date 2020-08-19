@@ -2,9 +2,18 @@
 
 <h2>Bem Vindo ao meu perfil! :call_me_hand: </h2>
 
+<p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/)](https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/) 
-[![Gmail Badge](https://img.shields.io/badge/-felip.garciaalves@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felip.garciaalves@gmail.com)](mailto:felip.garciaalves@gmail.com)
+<a target="_blank" href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:felip.garciaalves@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</p>
+
+<br>
+
 
 
 <p>
