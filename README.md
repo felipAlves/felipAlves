@@ -1,33 +1,15 @@
-# Felipe Alves
+<h1 align="left"> Felipe Alves </h1>
+<p align="left"></p>
 
-<h2>Bem Vindo ao meu perfil! :call_me_hand: </h2>
-<br>
 <p align="center">
-
-<a target="_blank" href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:felip.garciaalves@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipAlves" height="20" width="20" /></a>
+<a href="mailto:felip.garciaalves@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="felipAlves" height="20" width="20" /></a>
 </p>
 
-<br>
-<br>
+Bem vindo! Sou um desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
+Estou me especializando na stack: NodeJs, ReactJS e React Native. <br>
 
-
-
-<p>
-Meu nome é Felipe Garcia Alves, tenho 17 anos <br>
-Sou um desenvolvedor fullstack :computer:
-  
-<h4>Atualmente estou me especializando em javascript e na stack: </h4>
-<ul>
-  <li>NodeJs</li>
-  <li>ReactJs</li>
-  <li>React Native</li>
-</ul>
-</p>
+> as grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
