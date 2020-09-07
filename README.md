@@ -15,5 +15,4 @@ Estou me especializando na stack: NodeJs, ReactJS e React Native. <br>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=felipAlves&show_icons=true" alt="felipAlves"/> 
 </p>
