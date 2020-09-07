@@ -5,7 +5,12 @@
 </p>
 
 Bem vindo! Sou desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
-Estou me especializando na stack: NodeJs, ReactJS e React Native. <br>
+
+<ul>
+  <li>Estou me especializando em Nodejs, React e React Native</li>
+  <li>Crio interfaces mobile com o software figma</li>
+  <li>Quando me sobra algum tempo gosto de escrever no meu blog para contribuir na comidade de desenvolvedores</li>
+</ul>
 
 > As grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
 
