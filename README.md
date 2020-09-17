@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-<a href="felipe:felip.garciaalves@gmail.com" alt="Gmail">
+<a href="mailto:felip.garciaalves@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-felip.garciaalves@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoCo" /></a>
   
 <a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" alt="Linkedin">
