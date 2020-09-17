@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Trabalho em equipe, proativo, focado e sempre disposto a ajudar um colega de equipe.</strong>
+  🚀 Skills: <strong>Trabalho em equipe, sou proativo, focado e sempre disposto a ajudar um colega de equipe.</strong>
 </p>
 
 <p align="left">
