@@ -1,23 +1,27 @@
-<h1 align="left"> Felipe Alves </h1>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipAlves" height="20" width="20" /></a>
-<a href="mailto:felip.garciaalves@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="felipAlves" height="20" width="20" /></a>
+  Olá, meu nome é Felipe Alves sou <strong>Desenvolvedor Full Stack</strong> e estudo <strong>UI/UX Design</strong>.<br>
 </p>
 
-Bem vindo! Sou desenvolvedor fullstack. Estudo desenvolvimento web desde 2017. <br>
-
-<ul>
-  <li>Estou me especializando em Nodejs, React e React Native</li>
-  <li>Crio interfaces mobile com o software figma</li>
-  <li>Quando me sobra algum tempo gosto de escrever no meu blog para contribuir na comunidade de desenvolvedores</li>
-</ul>
-
-> As grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<p align="left">
+  🚀 Skills: <strong>Trabalho em equipe, proativo, focado e sempre disposto a ajudar um colega de equipe.</strong>
 </p>
+
+<p align="left">
+  🔥 Estudando atualmente: <strong>JavaScript, ReactJS, React Native, NodeJS, AdonisJS e Figma.</strong>
+</p>
+
+<p align="left">
+📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+</p>
+
+<p align="left">
+<a href="felipe:felip.garciaalves@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-felip.garciaalves@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoCo" /></a>
+  
+<a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Felipe%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+ 
+ </p>
+
+ 
