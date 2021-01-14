@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: <strong>JavaScript, ReactJS, React Native, NodeJS, AdonisJS e Figma.</strong>
+  🔥 Estudando atualmente: <strong>JavaScript, ReactJS, PHP, React Native, NodeJS, AdonisJS e Figma.</strong>
 </p>
 
 <p align="left">
