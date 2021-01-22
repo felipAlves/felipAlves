@@ -1,6 +1,7 @@
 
 <p align="left">
   Olá, meu nome é Felipe Alves sou <strong>Desenvolvedor Full Stack</strong> e estudo <strong>UI/UX Design</strong>.<br>
+  Atualmente estou me especializando em <strong>JavaScript</strong>
 </p>
 
 <p align="left">
