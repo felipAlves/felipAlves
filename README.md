@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: <strong>JavaScript, ReactJS, PHP, React Native, NodeJS, AdonisJS e Figma.</strong>
+  🔥 Estudando atualmente: <strong>Typescript, NodeTs, AdonisTs e Servidores Apache.</strong>
 </p>
 
 <p align="left">
@@ -19,7 +19,6 @@
     <li>Intermediário: <strong>React Native, Docker, Python, Typescript</strong></li>
     <li>Básico: <strong>Electron, mongodb</strong></li>
   </ul>
-  <strong>JavaScript, ReactJS, PHP, React Native, NodeJS, AdonisJS e Figma.</strong>
 </p>
 
 <p align="left">
