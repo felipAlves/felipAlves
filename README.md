@@ -13,6 +13,16 @@
 </p>
 
 <p align="left">
+  Conhecimentos: 
+  <ul>
+    <li>Avançado: <strong>Javascript, PHP, React, NodeJs, AdonisJs, MySQL, HTML5, CSS3</strong></li>
+    <li>Intermediário: <strong>React Native, Docker, Python, Typescript</strong></li>
+    <li>Básico: <strong>Electron, mongodb</strong></li>
+  </ul>
+  <strong>JavaScript, ReactJS, PHP, React Native, NodeJS, AdonisJS e Figma.</strong>
+</p>
+
+<p align="left">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
@@ -21,7 +31,7 @@
 <img src="https://img.shields.io/badge/-felip.garciaalves@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoCo" /></a>
   
 <a href="https://www.linkedin.com/in/felipe-garcia-alves-a793281b2/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Felipe%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<img src="https://img.shields.io/badge/-Felipe%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-garcia-alves-a793281b2" /></a>
  
  </p>
 
