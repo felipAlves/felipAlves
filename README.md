@@ -9,13 +9,13 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: <strong>Typescript, MongoDB, NextJs e Styled Components</strong>
+  🔥 Estudando atualmente: <strong> C# e ASP.NET </strong>
 </p>
 
 <p align="left">
   Conhecimentos: 
   <ul>
-    <li>Avançado: <strong>Javascript, PHP, React, NodeJs, AdonisJs, MySQL, HTML5, CSS3</strong></li>
+    <li>Avançado: <strong>Javascript, Typescript, Styled Components, NextJs, PHP, React, NodeJs, AdonisJs, MySQL, HTML5, CSS3</strong></li>
     <li>Intermediário: <strong>React Native, Docker, NextJs, MongoDB, Typescript</strong></li>
   </ul>
 </p>
